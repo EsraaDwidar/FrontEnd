@@ -1,0 +1,14 @@
+.btn-transparant{
+    width: 35%;
+}
+.imgcenter{
+    border-radius: 50%;
+    transform: translateY(50%);
+}
+.Free:hover{
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
